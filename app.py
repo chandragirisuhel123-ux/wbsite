@@ -92,11 +92,11 @@ with st.sidebar:
 study_notes = {
     "hello": "Hello! I am your college assistant bot. How can I help you today?",
     "hi": "Hi there! What college info are you looking for?",
-    "creator":"""<span style='color:blue; font-weight:bold;'>THIS APPLICATION WAS DEVELOPED BY SUHEL</span> I’m a student currently studying in loyola college ysrr. I’m really interested in coding and technology, especially Python. I enjoy building projects like chatbots and AI-based apps. I like learning new things and improving my skills little by little.I developed an AI-powered college assistant application using Python and the Streamlit framework. The application provides information about various academic and administrative aspects such as faculty details, fee structure, admission guidelines, scholarships, and eligibility criteria.
+    "creator":"""<span style='color:blue; font-weight:bold;'>THIS APPLICATION WAS DEVELOPED BY SUHEL</span> He is a student currently studying in loyola college ysrr. He is really interested in coding and technology, especially Python and java. He building projects like chatbots and AI-based apps and me.He developed an AI-powered college assistant application using Python and the Streamlit framework. The application provides information about various academic and administrative aspects such as faculty details, fee structure, admission guidelines, scholarships, and eligibility criteria.
 
-The system features an interactive chat-based interface inspired by ChatGPT, allowing users to input queries and receive relevant responses instantly. Additionally, I enhanced the user experience by incorporating features like dynamic content display, highlighted text formatting, and image integration for faculty profiles.
+The system features an interactive chat-based interface inspired by ChatGPT, allowing users to input queries and receive relevant responses instantly. Additionally, He enhanced the user experience by incorporating features like dynamic content display, highlighted text formatting, and image integration for faculty profiles.
 
-This project demonstrates my skills in Python programming, UI design using Streamlit, and basic natural language processing techniques for handling user queries.
+This project demonstrates by his skills in Python programming, UI design using Streamlit, and basic natural language processing techniques for handling user queries.
 """,
     "admission": """
 <h3>📌 Admission Guidelines</h3>
